@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from preview.colorlib.com/theme/WhatToDo Tech/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Jan 2024 19:57:33 GMT -->
 
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X77MVTGM4B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X77MVTGM4B');
+</script>
   <title>WhatToDo Tech - Lets grow together</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
