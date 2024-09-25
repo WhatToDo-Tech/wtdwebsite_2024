@@ -1,7 +1,7 @@
 <footer class="ftco-footer">
     <div class="container-xl">
       <div class="row mb-5 pb-5 justify-content-between">
-        <div class="col-md-6 col-lg">
+        <div class="col-md-6 col-lg-3">
           <div class="ftco-footer-widget mb-4">
             <h2 class="ftco-heading-2 logo d-flex">
               <a class="navbar-brand d-flex align-items-center" href="index-2.html">
@@ -18,45 +18,37 @@
             </ul> -->
           </div>
         </div>
-        <div class="col-md-6 col-lg-2">
+        <div class="col-md-6 col-lg-3">
           <div class="ftco-footer-widget mb-4">
             <h2 class="ftco-heading-2">Explore</h2>
             <ul class="list-unstyled">
-              <li><a href="about.html"><span class="fa fa-chevron-right mr-2"></span>About Us</a></li>
-              <li><a href="blog.html"><span class="fa fa-chevron-right mr-2"></span>projects</a></li>
-              <li><a href="work.html"><span class="fa fa-chevron-right mr-2"></span>services</a></li>
+              <li><a href="about.php"><span class="fa fa-chevron-right mr-2"></span>About Us</a></li>
+              <li><a href="contact.php"><span class="fa fa-chevron-right mr-2"></span>Contact Us</a></li>
+
+              <!-- <li><a href="blog.html"><span class="fa fa-chevron-right mr-2"></span>projects</a></li>
+              <li><a href="work.html"><span class="fa fa-chevron-right mr-2"></span>services</a></li> -->
             </ul>
           </div>
         </div>
-        <div class="col-md-6 col-lg-2">
+
+        <div class="col-md-6 col-lg-3">
           <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Quick Links</h2>
+            <h2 class="ftco-heading-2">Services</h2>
             <ul class="list-unstyled">
-              <li><a href="contact.html"><span class="fa fa-chevron-right mr-2"></span>Contact Us</a></li>
-              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Terms &amp; Conditions</a></li>
-              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Privacy</a></li>
-              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Feedbacks</a></li>
+              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Software Development and Solutions</a></li>
+              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Infrastructure and Networking</a></li>
+              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Consulting and Training</a></li>
+              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Other ICT-related Services</a></li>
             </ul>
           </div>
         </div>
-        <div class="col-md-6 col-lg-2">
+        <div class="col-md-6 col-lg-3">
           <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Categories</h2>
-            <ul class="list-unstyled">
-              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Graphic Design</a></li>
-              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Web Design</a></li>
-              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Branding &amp; Printing</a></li>
-              <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Web Development</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg">
-          <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Have a Questions?</h2>
+            <h2 class="ftco-heading-2">Have a Question?</h2>
             <div class="block-23 mb-3">
               <ul>
                 <li><span class="icon fa fa-map marker"></span><span class="text">Bingu Stadium, Area 49, Malawi</span></li>
-                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+265 995908058 | +265 881 39 48 68</span></a></li>
+                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+265 995 908 058 | +265 881 39 48 68</span></a></li>
                 <li><a target="_blank" href="mailto:whattodomw@gmail.com"><span class="icon fa fa-paper-plane pr-4"></span><span class="text"><span
                         class="__cf_email__"
                         data-cfemail="365f585059764f59434452595b575f581855595b">[email&#160;protected]</span></span></a>
