@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
         <div class="col-md-6 heading-section text-center mb-5" data-aos="fade-up" data-aos-duration="1000">
           <h2 class="mb-4">About us</h2>
-          <p><span class="subheading mr-2"><a href="index.php">Home</a></span> <span class="subheading">About us</span>
+          <p><span class="subheading mr-2"><a href="index">Home</a></span> <span class="subheading">About us</span>
           </p>
         </div>
       </div>

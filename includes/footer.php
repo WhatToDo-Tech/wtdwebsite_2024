@@ -22,8 +22,8 @@
           <div class="ftco-footer-widget mb-4">
             <h2 class="ftco-heading-2">Explore</h2>
             <ul class="list-unstyled">
-              <li><a href="about.php"><span class="fa fa-chevron-right mr-2"></span>About Us</a></li>
-              <li><a href="contact.php"><span class="fa fa-chevron-right mr-2"></span>Contact Us</a></li>
+              <li><a href="about"><span class="fa fa-chevron-right mr-2"></span>About Us</a></li>
+              <li><a href="contact"><span class="fa fa-chevron-right mr-2"></span>Contact Us</a></li>
 
               <!-- <li><a href="blog.html"><span class="fa fa-chevron-right mr-2"></span>projects</a></li>
               <li><a href="work.html"><span class="fa fa-chevron-right mr-2"></span>services</a></li> -->

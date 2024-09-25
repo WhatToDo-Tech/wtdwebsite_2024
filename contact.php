@@ -30,7 +30,7 @@
 <div class="row justify-content-center">
 <div class="col-md-11 heading-section mb-5" data-aos="fade-up" data-aos-duration="1000">
 <h2 class="mb-4">Contact us</h2>
-<p><span class="subheading mr-2"><a href="index.html">Home</a></span> <span class="subheading">Contact</span></p>
+<p><span class="subheading mr-2"><a href="index">Home</a></span> <span class="subheading">Contact</span></p>
 </div>
 </div>
 <div class="row no-gutters justify-content-center">
