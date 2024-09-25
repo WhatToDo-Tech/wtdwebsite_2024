@@ -19,21 +19,23 @@
 <div class="col-md-4">
 <div class="dbox w-100 d-flex align-items-start">
 <div class="text">
-<p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+<p><span>Address:</span> Bingu Stadium, Area 49, Malawi</p>
 </div>
 </div>
 </div>
 <div class="col-md-4">
 <div class="dbox w-100 d-flex align-items-start">
 <div class="text">
-<p><span>Email:</span> <a href="https://preview.colorlib.com/cdn-cgi/l/email-protection#6c05020a032c1503191e1f051809420f0301"><span class="__cf_email__" data-cfemail="bfd6d1d9d0ffc6d0cacdccd6cbda91dcd0d2">[email&#160;protected]</span></a></p>
+<p><span>Email:</span> <a target="_blank" href="mailto:whattodomw@gmail.com"><span class="icon fa fa-paper-plane pr-4"></span><span class="text"><span
+                        class="__cf_email__"
+                        data-cfemail="365f585059764f59434452595b575f581855595b">[email&#160;protected]</span></span></a></p>
 </div>
 </div>
 </div>
 <div class="col-md-4">
 <div class="dbox w-100 d-flex align-items-start">
 <div class="text">
-<p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+<p><span>Phone:</span> <a href="tel://265995908058">+265 995 908 058 <br/> +265 881 39 48 68</a></p>
 </div>
 </div>
 </div>
@@ -71,16 +73,15 @@
 <div class="w-100 social-media mt-5">
 <h3>Follow us here</h3>
 <p>
-<a href="#">Facebook</a>
-<a href="#">Twitter</a>
-<a href="#">Instagram</a>
-<a href="#">Dribbble</a>
+<a href="https://web.facebook.com/WhattodoTechnologies/?_rdc=1&_rdr" target="_blank">Facebook</a>
+<a href="https://www.linkedin.com/company/whattodo-technologies/" target="_blank">LinkedIn</a>
+<a href="https://github.com/whattodo-ltd" target="_blank">GitHub</a>
 </p>
 </div>
 </div>
 </div>
 <div class="col-lg-6 d-flex align-items-stretch" data-aos="zoom-in-down" data-aos-duration="1000" data-aos-delay="200">
-<div class="img w-100" style="background-image: url(images/about-1.jpg);"></div>
+<div class="img w-100" style="background-image: url(images/work-2.jpg);"></div>
 </div>
 </div>
 </div>
