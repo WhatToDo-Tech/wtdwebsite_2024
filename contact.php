@@ -1,4 +1,30 @@
 <?php include 'includes/header.php'; ?>
+
+<script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init({
+        publicKey: "zFMqLr0EjfJPWe9VT",
+      });
+   })();
+</script>
+<script type="text/javascript">
+        window.onload = function() {
+            document.getElementById('contactForm').addEventListener('submit', function(event) {
+                event.preventDefault();
+                // these IDs from the previous steps
+                emailjs.sendForm('service_k03ejyi', 'template_dsho8cy', this)
+                    .then(() => {
+                        alert("Thank you for your email. We will get back to you shortly.")
+                    }, (error) => {
+                        console.log('FAILED...', error);
+                    });
+                    document.getElementById('contactForm').reset();
+            });
+        }
+    </script>
 <section class="ftco-section" id="scroll">
 <div class="container-fluid">
 <div class="row justify-content-center">
