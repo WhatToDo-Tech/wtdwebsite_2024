@@ -122,8 +122,8 @@
               <div class="work-wrap" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="100">
                 <div class="img" style="background-image: url(images/art.jpg);"></div>
                 <div class="text">
-                  <span class="category">Branding, Printing</span>
-                  <h3><a href="#">High Quality Design Concept</a></h3>
+                  <!-- <span class="category">Branding, Printing</span> -->
+                  <h3><a href="#">Smart AI-driven systems</a></h3>
                 </div>
               </div>
             </div>
@@ -131,8 +131,8 @@
               <div class="work-wrap" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="300">
                 <div class="img" style="background-image: url(images/mobile.jpg);"></div>
                 <div class="text">
-                  <span class="category">Web Development</span>
-                  <h3><a href="#">High Quality Design Concept</a></h3>
+                  <!-- <span class="category">Web Development</span> -->
+                  <h3><a href="#">Innovative mobile experiences</a></h3>
                 </div>
               </div>
             </div>
@@ -140,8 +140,8 @@
               <div class="work-wrap" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="400">
                 <div class="img" style="background-image: url(images/web.jpg);"></div>
                 <div class="text">
-                  <span class="category">Web Design, Web Development</span>
-                  <h3><a href="#">High Quality Design Concept</a></h3>
+                  <!-- <span class="category">Web Design, Web Development</span> -->
+                  <h3><a href="#">Custom web solutions</a></h3>
                 </div>
               </div>
             </div>
@@ -149,8 +149,8 @@
               <div class="work-wrap" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">
                 <div class="img" style="background-image: url(images/net.jpg);"></div>
                 <div class="text">
-                  <span class="category">Graphic Design</span>
-                  <h3><a href="#">High Quality Design Concept</a></h3>
+                  <!-- <span class="category">Graphic Design</span> -->
+                  <h3><a href="#">Reliable network management</a></h3>
                 </div>
               </div>
             </div>
