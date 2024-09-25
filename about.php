@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
         <div class="col-md-6 heading-section text-center mb-5" data-aos="fade-up" data-aos-duration="1000">
           <h2 class="mb-4">About us</h2>
-          <p><span class="subheading mr-2"><a href="index.html">Home</a></span> <span class="subheading">About us</span>
+          <p><span class="subheading mr-2"><a href="index.php">Home</a></span> <span class="subheading">About us</span>
           </p>
         </div>
       </div>
@@ -15,9 +15,10 @@
       <div class="row justify-content-center">
         <div class="col-md-10">
           <div class="row g-xl-5">
+            
             <div class="col-md-5 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"
               data-aos-duration="1000">
-              <div class="img w-100" style="background-image: url(images/about.jpg);"></div>
+              <div class="img w-100" onclick="window.open('https://drive.google.com/file/d/1uleLwYPrL1TJxNRVQ3TCY1nMXjy4pJB9/view?usp=sharing', '_blank')" style="background-image: url(images/about.jpg);cursor: pointer;"></div>
             </div>
             <div class="col-md-7 py-5 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
               <div class="py-md-5">
@@ -28,14 +29,14 @@
                   web design and hosting, mobile application development, software development, server administration,
                   enterprise networking solutions, systems integration, integration security technology, embedded
                   systems development, training, IT consultancy, IoT services, and other ICT-related services..</p>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a
-                  paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                <p>Our mission is to digitize all file-based systems and eliminate tedious repetitive tasks within Malawi and
+                across Africa.</p>
                 <div class="row py-5 g-2">
                   <div class="col-md-6 col-lg-3 d-flex align-items-stretch">
                     <div class="counter-wrap" data-aos="fade-up" data-aos-duration="1000">
                       <div class="text">
                         <span class="d-block number gradient-text"><span id="count1" class="counter"
-                            data-count="50">0</span></span>
+                            data-count="6">0</span>+</span>
                         <p>Years of Experienced</p>
                       </div>
                     </div>
@@ -44,25 +45,25 @@
                     <div class="counter-wrap" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                       <div class="text">
                         <span class="d-block number gradient-text"><span id="count2" class="counter"
-                            data-count="210">0</span>K+</span>
-                        <p>Finished Project</p>
+                            data-count="20">0</span>+</span>
+                        <p>Finished Projects</p>
                       </div>
                     </div>
                   </div>
-                  <div class="col-md-6 col-lg-3 d-flex align-items-stretch">
+                  <!-- <div class="col-md-6 col-lg-3 d-flex align-items-stretch">
                     <div class="counter-wrap" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                       <div class="text">
                         <span class="d-block number gradient-text"><span id="count2" class="counter"
-                            data-count="450">0</span></span>
+                            data-count="6">0</span></span>
                         <p>Company Staff</p>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
                   <div class="col-md-6 col-lg-3 d-flex align-items-stretch">
                     <div class="counter-wrap" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
                       <div class="text">
                         <span class="d-block number gradient-text"><span id="count2" class="counter"
-                            data-count="100">0</span></span>
+                            data-count="15">0</span></span>
                         <p>Satified Clients</p>
                       </div>
                     </div>
