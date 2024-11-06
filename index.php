@@ -19,26 +19,26 @@
         <div class="col-lg-6">
           <div class="row g-3">
             <div class="col-6 col-md-3" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="100">
-              <a href="images/art.jpg"
+              <a href="images/SIS.png"
                 class="work-featured img glightbox d-flex align-items-center justify-content-center"
-                style="background-image: url(images/art.jpg);">
+                style="background-image: url(images/SIS.png);">
                 <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span>
                 </div>
               </a>
             </div>
           
             <div class="col-6 col-md-3" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="300">
-              <a href="images/art.jpg"
+              <a href="images/HMS.png"
                 class="work-featured img glightbox d-flex align-items-center justify-content-center"
-                style="background-image: url(images/mobile.jpg);">
+                style="background-image: url(images/HMS.png);">
                 <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span>
                 </div>
               </a>
             </div>
             <div class="col-6 col-md-3" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="400">
-              <a href="images/art.jpg"
+              <a href="images/SMS.png"
                 class="work-featured img glightbox d-flex align-items-center justify-content-center"
-                style="background-image: url(images/web.jpg);">
+                style="background-image: url(images/SMS.png);">
                 <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span>
                 </div>
               </a>
@@ -47,7 +47,7 @@
             <div class="col-6 col-md-3" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">
               <a href="images/art.jpg"
                 class="work-featured img glightbox d-flex align-items-center justify-content-center"
-                style="background-image: url(images/net.jpg);">
+                style="background-image: url(images/CMS.png);">
                 <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span>
                 </div>
               </a>

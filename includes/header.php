@@ -4,14 +4,17 @@
 
 <head>
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-X77MVTGM4B"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-X77MVTGM4B"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-X77MVTGM4B');
-</script>
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-X77MVTGM4B');
+  </script>
   <title>WhatToDo Tech - Lets grow together</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -27,7 +30,7 @@
   <link rel="stylesheet" href="css/aos.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" type="image/x-icon" href="./images/w.png">
-  
+
 </head>
 
 <body>
@@ -44,8 +47,8 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
-          <!-- <li class="nav-item"><a class="nav-link" href="work">Services</a></li>
-          <li class="nav-item"><a class="nav-link" href="blog">Projects</a></li> -->
+          <li class="nav-item"><a class="nav-link" href="work.php">Products</a></li>
+          <!-- <li class="nav-item"><a class="nav-link" href="blog">Projects</a></li> -->
           <li class="nav-item"><a class="nav-link" href="about">About</a></li>
           <li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
         </ul>
