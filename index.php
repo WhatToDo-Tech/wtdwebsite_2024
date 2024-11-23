@@ -9,7 +9,7 @@
             <h1 class="mb-5">Technology world made simple as black and white</h1>
             <p class="mt-4"><a target="_blank"
                 href="https://drive.google.com/file/d/1uleLwYPrL1TJxNRVQ3TCY1nMXjy4pJB9/view?usp=sharing"
-                class="btn-custom">Download our Profile <span class="ion ion-ios-arrow-round-forward"></span></a></p>
+                class="btn-custom">Check out our Profile <span class="ion ion-ios-arrow-round-forward"></span></a></p>
           </div>
         </div>
       </div>
